@@ -1,6 +1,6 @@
 cask "refocus" do
-  version "1.01"
-  sha256 "601cd4ea28076b8d2f867b39adb95ade359e9986a8ffc8409c81f084a46f8129"
+  version "1.03"
+  sha256 "c1def9d2b83c45d8043d63acf62040ed9d34719d9f4078cfb9374e27081b36c9"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=refocus&file=Refocus.dmg"
   name "Refocus"
@@ -14,7 +14,7 @@ cask "refocus" do
     end
   end
 
-  depends_on :macos
+  depends_on macos: :monterey
 
   app "Refocus.app"
 end

@@ -14,7 +14,7 @@ brew install --cask whisper-local
 | `icrec` | [icRec](https://k386.sub.jp/icRec/) — 録音の取り込み・文字起こし・整理 | macOS 14+ |
 | `whisper-local` | [Whisper Local](https://k386.sub.jp/whisper/) — Mac の中だけで文字起こし | macOS 14+・Apple シリコン |
 | `soundswitch` | [SoundSwitch](https://k386.sub.jp/SoundSwitch/) — スピーカー・マイクの切り替え | macOS 14+ |
-| `refocus` | [Refocus](https://k386.sub.jp/Refocus/) — 20 分ごとの目の休憩タイマー | macOS 11+ |
+| `refocus` | [Refocus](https://k386.sub.jp/Refocus/) — 20 分ごとの目の休憩タイマー | macOS 12+ |
 
 Quota Desk は、配布ページで利用規約に同意してからダウンロードする仕組みのため、ここには入れていません。
 
