@@ -20,4 +20,7 @@ icrec icRec icRec-VERSION.dmg
 whisper-local whisper Whisper-Local-VERSION.dmg
 soundswitch SoundSwitch SoundSwitch-VERSION.dmg
 refocus Refocus Refocus.dmg
+quotadesk QuotaDesk QuotaDesk-VERSION.dmg
+mouse-halo MouseHalo Mouse-Halo-VERSION.dmg
+honyaku Honyaku Honyaku-VERSION.dmg
 LIST

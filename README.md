@@ -15,8 +15,9 @@ brew install --cask whisper-local
 | `whisper-local` | [Whisper Local](https://k386.sub.jp/whisper/) — Mac の中だけで文字起こし | macOS 14+・Apple シリコン |
 | `soundswitch` | [SoundSwitch](https://k386.sub.jp/SoundSwitch/) — スピーカー・マイクの切り替え | macOS 14+ |
 | `refocus` | [Refocus](https://k386.sub.jp/Refocus/) — 20 分ごとの目の休憩タイマー | macOS 12+ |
-
-Quota Desk は、配布ページで利用規約に同意してからダウンロードする仕組みのため、ここには入れていません。
+| `quotadesk` | [Quota Desk](https://k386.sub.jp/QuotaDesk/) — Codex・Claude・Antigravity の残り枠をウィジェットで | macOS 14+・Apple シリコン |
+| `mouse-halo` | [Mouse Halo](https://k386.sub.jp/MouseHalo/) — マウスポインターのまわりに光の輪 | macOS 14+・Apple シリコン |
+| `honyaku` | [Honyaku](https://k386.sub.jp/Honyaku/) — 選んだ文章や画面の一部をメニューバーで翻訳 | macOS 15+・Apple シリコン |
 
 どのアプリも Apple の公証を受けた DMG を、公式サイト（k386.sub.jp）から取得します。
 
