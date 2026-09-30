@@ -1,6 +1,6 @@
 cask "soundswitch" do
-  version "0.4.2"
-  sha256 "0becc32bcf8593c4bf42b29091b7902db8e16efe6fb950256463878ae26b00ce"
+  version "0.4.3"
+  sha256 "b2458a3df536a0f9954f4495982c6c312589f9a66adfe76cd8dc33a129025aa0"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=soundswitch&file=SoundSwitch-#{version}.dmg"
   name "SoundSwitch"
