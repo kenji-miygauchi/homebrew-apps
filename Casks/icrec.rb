@@ -1,6 +1,6 @@
 cask "icrec" do
-  version "0.1.67"
-  sha256 "8b3a1dce97acfad619b2f8306fce95547287f1faee92c81dc0998d5b060d04ef"
+  version "0.1.68"
+  sha256 "428e4dd11098cfbe23ac51ad2c1a714d511fa51c306a408250449f167eb982f7"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=icrec&file=icRec-#{version}.dmg"
   name "icRec"
