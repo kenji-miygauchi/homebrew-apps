@@ -24,4 +24,5 @@ quotadesk QuotaDesk QuotaDesk-VERSION.dmg
 mouse-halo MouseHalo Mouse-Halo-VERSION.dmg
 honyaku Honyaku Honyaku-VERSION.dmg
 kotobasync KotobaSync KotobaSync-VERSION.dmg
+picklio Picklio Picklio-VERSION.dmg
 LIST
