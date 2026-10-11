@@ -1,6 +1,6 @@
 cask "maildeck" do
-  version "1.3.3"
-  sha256 "4fab7e2f0fa0e60ad6b1605be673431a896d51cf9f988136429dd0776301c3f3"
+  version "1.3.4"
+  sha256 "50e9f0c6169b56dea4bd95ee140bebb04bd5c00535cea0543fb9aab399d8584f"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=maildeck&file=MailDeck-#{version}.dmg"
   name "MailDeck"
