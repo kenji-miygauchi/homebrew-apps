@@ -1,6 +1,6 @@
 cask "whisper-local" do
-  version "0.3.22"
-  sha256 "147e8281c6491d0247b1a1171753052a8df16c7a93c1585b2c36f95301fc1c89"
+  version "0.3.24"
+  sha256 "4d60739af0b69cb907bf600591d1f73ca30bba481ff85accab7ebcb5dc600654"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=whisper&file=Whisper-Local-#{version}.dmg"
   name "Whisper Local"
