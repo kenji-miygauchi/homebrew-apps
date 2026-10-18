@@ -1,6 +1,6 @@
 cask "kotobasync" do
-  version "1.2.33"
-  sha256 "a38827df81999750a062a995a6a747d01d870eef79ca93875df053b15b7b0d7e"
+  version "1.2.34"
+  sha256 "67c90880f7a90896f08b0feaf757832375e31827c627ea7c011f81aa5a2022e4"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=kotobasync&file=KotobaSync-#{version}.dmg"
   name "ことばシンク"
