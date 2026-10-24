@@ -20,6 +20,7 @@ brew install --cask whisper-local
 | `honyaku` | [Honyaku](https://k386.sub.jp/Honyaku/) — 選んだ文章や画面の一部をメニューバーで翻訳 | macOS 15+・Apple シリコン |
 | `kotobasync` | [ことばシンク](https://k386.sub.jp/KotobaSync/) — 動画の文字起こしから日本語字幕への翻訳・見直しまで | macOS 15+・Apple シリコン |
 | `picklio` | [Picklio](https://k386.sub.jp/Picklio/) — リンクから動画や曲を選んで MP4・MP3・M4A で保存 | macOS 14+・Apple シリコン |
+| `movie-metadata` | [Movie Metadata](https://k386.sub.jp/MovieMetadata/) — 映画や番組の情報を探して動画（MP4）に書き込む | macOS 14+・Apple シリコン |
 
 どのアプリも Apple の公証を受けた DMG を、公式サイト（k386.sub.jp）から取得します。
 
