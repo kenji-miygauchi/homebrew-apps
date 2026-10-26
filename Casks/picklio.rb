@@ -1,6 +1,6 @@
 cask "picklio" do
-  version "0.7.4"
-  sha256 "f740d13b9aaa7fc7e7cb688725edcd26bf3cee2d5d22f916a9739c929c47be93"
+  version "0.7.5"
+  sha256 "77bfef825162111a51c42c34a83d1601fc9ef0a55d53eaeb3163fd211b5db86f"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=picklio&file=Picklio-#{version}.dmg"
   name "Picklio"
