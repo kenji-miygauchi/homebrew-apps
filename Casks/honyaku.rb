@@ -1,6 +1,6 @@
 cask "honyaku" do
-  version "0.3.3"
-  sha256 "157e70d63ed8389163f0297e5af0a066ca2f19ac21e0833237b58850e3572e53"
+  version "0.3.4"
+  sha256 "2e197df6a6bbc9bf7621ee5933281d500456186b757f23e497f1c611ca1d138d"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=honyaku&file=Honyaku-#{version}.dmg"
   name "Honyaku"
