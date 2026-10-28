@@ -14,6 +14,8 @@ cask "picklio" do
     end
   end
 
+  disable! date: "2026-10-28", because: :discontinued
+
   depends_on arch: :arm64
   depends_on macos: :sonoma
 
