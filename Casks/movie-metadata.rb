@@ -1,6 +1,6 @@
 cask "movie-metadata" do
-  version "0.2.3"
-  sha256 "e6a7a20d87ca3bb1d24e5f0b59c2578f5de5c5c664be545043383cf56ec29bed"
+  version "0.2.4"
+  sha256 "b3ef33da86820c44f921c123cfb33ba3018561093379dd6cfbac0bd5551a404a"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=moviemetadata&file=MovieMetadata-#{version}.dmg"
   name "Movie Metadata"
