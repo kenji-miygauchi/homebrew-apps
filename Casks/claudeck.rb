@@ -1,6 +1,6 @@
 cask "claudeck" do
-  version "2.0.2"
-  sha256 "53bba340dd33543739a8d055fb4967d807282b980d53129a76e18136737aa850"
+  version "2.0.3"
+  sha256 "fcf71b4a2e7de7cc63e1029190cc7823150128cd8a65efe428613a34dfb516c6"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=claudeck&file=ClauDeck-#{version}.dmg"
   name "ClauDeck"

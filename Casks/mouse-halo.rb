@@ -1,6 +1,6 @@
 cask "mouse-halo" do
-  version "0.2.3"
-  sha256 "249127442be36a1ba142afb6f55d5614e93dd9b20f8fb18b63d7fdd7ff9a669f"
+  version "0.2.4"
+  sha256 "6605fb0556c9700fe9f659b24bf632ec25e44190af03605d04eb8e7835cc1ea4"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=mousehalo&file=Mouse-Halo-#{version}.dmg"
   name "Mouse Halo"
