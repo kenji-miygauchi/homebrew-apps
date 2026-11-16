@@ -1,6 +1,6 @@
 cask "quotadesk" do
-  version "0.2.5"
-  sha256 "fb283d285a1bb9a7123e148e8830f31c495cda018d57f300fd6f21ccf2fab6f0"
+  version "0.2.6"
+  sha256 "3d30f60849fe462e8e022519ead0afa2aca4e067f86e3c50315eb77b12fa73b3"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=quotadesk&file=QuotaDesk-#{version}.dmg"
   name "Quota Desk"
