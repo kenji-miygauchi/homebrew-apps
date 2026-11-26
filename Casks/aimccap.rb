@@ -1,6 +1,6 @@
 cask "aimccap" do
-  version "0.3.0"
-  sha256 "76892aee8095eb81c443c9aec98d8e0824e6d29bf11a965aff64cfe1658b936b"
+  version "0.3.1"
+  sha256 "5a42ba8cebe361443ad4846f7e9f41928aac0f8062c06e25bafb128a8e41ed0c"
 
   url "https://k386.sub.jp/shared/api/dl.php?app=aimccap&file=AIMCCap-#{version}.dmg"
   name "AIMCCap"
