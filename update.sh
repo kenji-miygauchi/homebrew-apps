@@ -26,4 +26,5 @@ honyaku Honyaku Honyaku-VERSION.dmg
 kotobasync KotobaSync KotobaSync-VERSION.dmg
 picklio Picklio Picklio-VERSION.dmg
 movie-metadata MovieMetadata MovieMetadata-VERSION.dmg
+aimccap AIMCCap AIMCCap-VERSION.dmg
 LIST
